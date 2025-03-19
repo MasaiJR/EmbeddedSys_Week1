@@ -1,7 +1,7 @@
 # Working with HTML, CSS, Markdown
 
-This is a README markdown file created from the command line
-How to add text to the README file from cmd
+This is a **README** markdown file created from the command line. <br>
+How to add text to the README file from cmd.
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -9,14 +9,10 @@ How to add text to the README file from cmd
 ##### Heading 5
 ###### Heading 6
 
-\*Hello hello*\
-/*Hello hello*/
-
-*Hello*
-
-/Hello/
-
-\*Hello hello\*
-
-
+A line break <br> is used to _separate_ lines in Markdown.
+<hr>
+That was a horizontal break.
+<hr>
+This text is in _italics_ hello <br>
+This text is in **bold**
 
