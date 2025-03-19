@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: lightgreen;
 }
 
 h1 {
@@ -7,14 +7,18 @@ h1 {
     color: black;
     font-family: Georgia;
 }
+
 h2 {
-    color: blue;
+    color: black;
     font-family: Arial;
 }
-h4{
-    background-color: burlywood;
-}
+
 p {
     font-family: Arial;
-    font-style: italic
+    font-style: italic;
+}
+
+ol {
+    font-family: Arial;
+    font-style: italic;
 }
