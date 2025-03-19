@@ -1,3 +1,5 @@
+# Working with HTML, CSS, Markdown
+
 This is a README markdown file created from the command line
 How to add text to the README file from cmd
 # Heading 1
@@ -6,5 +8,15 @@ How to add text to the README file from cmd
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
-####### Heading 7
+
+\*Hello hello*\
+/*Hello hello*/
+
+*Hello*
+
+/Hello/
+
+\*Hello hello\*
+
+
 
