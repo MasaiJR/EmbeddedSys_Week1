@@ -10,9 +10,9 @@ How to add text to the README file from cmd.
 ###### Heading 6
 
 A line break <br> is used to _separate_ lines in Markdown.
-<hr>
+
 That was a _horizontal_ break.
-<hr>
+
 This text is in _italics_ hello <br>
 This text is in **Hello**
 
